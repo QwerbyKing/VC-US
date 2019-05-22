@@ -1,0 +1,2 @@
+1
+Replace the above number with a 1 to play Legacy Chess, or with a 3 to play Betza Chess
